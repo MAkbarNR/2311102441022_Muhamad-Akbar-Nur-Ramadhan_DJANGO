@@ -1,14 +1,16 @@
 # Tugas Progress 2  Progress Instalasi Django
 
- 2311102441022 Muhamad Akbar Nur Ramadhan
+  NIM : 2311102441022 Nama : Muhamad Akbar Nur Ramadhan
 
-## Yang pertama tentunya
+## Progres Installasi
+
+Yang pertama tentunya
 
 Pastikan Python sudah terinstal 
-menggunakan virtual environment agar proyek tetap perawan
-membuatbuat Virtual Environment
+menggunakan virtual environment agar proyek tetap bersih
+membuatbuat Virtual EnvironmenT
 
-menjalan alankan perintah untuk membuat dan mengaktifkan virtual environment.
+menjalkan perintah untuk membuat dan mengaktifkan virtual environment.
 Instal Django
 
 Gunakan pip untuk menginstal Django di dalam virtual environment.
