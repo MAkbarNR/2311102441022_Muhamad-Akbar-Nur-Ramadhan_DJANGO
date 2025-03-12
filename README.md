@@ -1,23 +1,34 @@
-# Tugas Progress 2  Progress Instalasi Django
+# Tugas Progress 3  Setting dan URL Django
 
   NIM : 2311102441022 Nama : Muhamad Akbar Nur Ramadhan
 
-## Progres Installasi
+## Progres Setting
 
-Yang pertama tentunya
+Halaman Utama dari project saya adalah memoperkenalkan isi website dari project saya jadi, di halaman ini saya akan melihatkan bahsawanya ini adalah website seputar Band
 
-Pastikan Python sudah terinstal 
-menggunakan virtual environment agar proyek tetap bersih
-membuatbuat Virtual EnvironmenT
+## Cara Menjalankan Project
 
-menjalkan perintah untuk membuat dan mengaktifkan virtual environment.
-Instal Django
+1. Salin dulu boss
 
-Gunakan pip untuk menginstal Django di dalam virtual environment.
-membuat proyek jango saya menjudulkan : website
+```shell
+git clone https://github.com/akhmadqasim/portfolio.git
+```
 
-Gunakan perintah Django untuk membuat proyek baru.
-Jalankan Server
+2. Buat vir en boss
 
-Navigasi ke folder proyek dan jalankan development server.
+```shell
+# Universal Python
+python -m venv .venv
+```
+3. Activate kan .venv boss
 
+```shell
+# Windows
+.venv\Scripts\activate
+```
+
+4. Terakhir install Django boss
+
+```shell
+pip install django
+```
